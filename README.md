@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website, showcasing my projects, skills, and education as a Computer Science student at Universiti Sains Malaysia (USM). This site serves as both a professional introduction and a showcase of the web development and software projects I’ve worked on.
 
-🔗 Visit My Portfolio Website
-(Replace with your actual deployment link)
+🔗 Visit My Portfolio Website: https://portfolio-chua-pei-jun.vercel.app/
 
 ## About Me
 
